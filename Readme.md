@@ -1,0 +1,5 @@
+- this is a customer CRUDS managment back end
+- you can validate the number by regex and list it
+- in customer also you can filter on the list
+- the service run on localhost:8080
+- you can run the angular page by run the angular program on localhost:4200

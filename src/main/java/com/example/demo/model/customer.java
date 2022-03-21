@@ -22,6 +22,5 @@ public class customer {
     private String phone;
     @Column(name = "cont_id")
     private Long contId;
-//    @Column(name = "is-valid")
-//    private boolean isValid;
+
 }

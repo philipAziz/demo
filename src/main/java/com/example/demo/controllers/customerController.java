@@ -30,8 +30,5 @@ public class customerController {
         return customerService.validate(countryCode,phone);
     }
 
-//    @RequestMapping({"/valid"})
-//    public List<customer> valid() {
-//        return customerService.getValidCustomers(true);
-//    }
+
 }

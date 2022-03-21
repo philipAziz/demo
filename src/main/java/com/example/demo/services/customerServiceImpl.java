@@ -44,15 +44,11 @@ public class customerServiceImpl implements customerService{
                   .filter(c -> c.getValid() ==valid.get())
                   .collect(Collectors.toList());
               return list;
-              
       }
         return dtoList;
     }
 
-//    @Override
-//    public List<customer> getValidCustomers(boolean valid) {
-//        return customerRepo.findAllByIsValid(true);
-//    }
+
 
     @Override
     public boolean validate(String countryPattern,String phone) {

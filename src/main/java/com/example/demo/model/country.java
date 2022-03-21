@@ -20,5 +20,4 @@ public class country {
     @Column(name = "code")
     private String code;
 
-    // private boolean valid;
 }

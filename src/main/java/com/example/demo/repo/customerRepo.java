@@ -11,5 +11,5 @@ import java.util.Optional;
 public interface customerRepo extends CrudRepository<customer,Long> {
 
     List<customer>findAllByContId(Long countryId);
-    //List<customer>findAllByIsValid(boolean valid);
+
 }
