@@ -1,0 +1,10 @@
+
+V	java:S1252"<This block of commented-out lines of code should be removed.(Ò€ÙÅøÿÿÿÿ
+V	java:S125R"<This block of commented-out lines of code should be removed.(â®ªÚüÿÿÿÿ
+V	java:S125\"<This block of commented-out lines of code should be removed.(ıƒüîøÿÿÿÿ
+x
+java:S1128"]Remove this unused import 'org.hibernate.dialect.function.AbstractAnsiTrimEmulationFunction'.(¯­»Õûÿÿÿÿ
+b
+java:S1128"GRemove this unused import 'org.hibernate.dialect.function.SQLFunction'.(áµ”úÿÿÿÿ
+l
+java:S1128"WRemove this unused import 'org.hibernate.exception.spi.SQLExceptionConversionDelegate'.(àÛ­
